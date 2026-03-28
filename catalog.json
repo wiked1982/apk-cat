@@ -1,0 +1,26 @@
+{
+  "catalogName": "My Fire TV App Catalog",
+  "lastUpdatedUtc": "2026-03-28T00:00:00Z",
+  "packages": [
+    {
+      "id": "my-app",
+      "name": "My App",
+      "version": "1.2.3",
+      "description": "Primary production build for Fire TV users.",
+      "downloadUrl": "https://github.com/your-org/your-repo/releases/download/v1.2.3/my-app-firetv.apk",
+      "sha256": "PUT_REAL_SHA256_HERE",
+      "packageName": "com.example.myapp",
+      "fileSizeBytes": 25487361
+    },
+    {
+      "id": "my-app-beta",
+      "name": "My App Beta",
+      "version": "1.3.0-beta1",
+      "description": "Optional preview build for testers.",
+      "downloadUrl": "https://github.com/your-org/your-repo/releases/download/v1.3.0-beta1/my-app-firetv-beta.apk",
+      "sha256": "PUT_REAL_SHA256_HERE",
+      "packageName": "com.example.myapp.beta",
+      "fileSizeBytes": 26144219
+    }
+  ]
+}
