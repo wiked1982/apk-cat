@@ -7,6 +7,7 @@
       "name": "Tivimate",
       "version": "5.1",
       "description": "Tivimate.",
+      "launchTarget": "ar.tvplayer.tv",
       "downloadUrl": "https://github.com/wiked1982/apk-cat/releases/download/apk/TiviMate_WFRZUY44M4_2200.apk"
     },
     {
@@ -14,6 +15,7 @@
       "name": "Wicked",
       "version": "4.1",
       "description": "Wicked.",
+      "launchTarget": "com.wickedtv.wickedtvbox",
       "downloadUrl": "https://github.com/wiked1982/apk-cat/releases/download/apk/wickedtv.apk"
     },
     {
