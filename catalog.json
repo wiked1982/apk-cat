@@ -3,24 +3,25 @@
   "lastUpdatedUtc": "2026-03-28T00:00:00Z",
   "packages": [
     {
-      "id": "my-app",
-      "name": "My App",
-      "version": "1.2.3",
-      "description": "Primary production build for Fire TV users.",
-      "downloadUrl": "https://github.com/your-org/your-repo/releases/download/v1.2.3/my-app-firetv.apk",
-      "sha256": "PUT_REAL_SHA256_HERE",
-      "packageName": "com.example.myapp",
-      "fileSizeBytes": 25487361
+      "id": "tivimate",
+      "name": "Tivimate",
+      "version": "5.1",
+      "description": "Tivimate.",
+      "downloadUrl": "https://github.com/wiked1982/apk-cat/releases/download/apk/TiviMate_WFRZUY44M4_2200.apk"
     },
     {
-      "id": "my-app-beta",
-      "name": "My App Beta",
-      "version": "1.3.0-beta1",
-      "description": "Optional preview build for testers.",
-      "downloadUrl": "https://github.com/your-org/your-repo/releases/download/v1.3.0-beta1/my-app-firetv-beta.apk",
-      "sha256": "PUT_REAL_SHA256_HERE",
-      "packageName": "com.example.myapp.beta",
-      "fileSizeBytes": 26144219
+      "id": "wicked",
+      "name": "Wicked",
+      "version": "4.1",
+      "description": "Wicked.",
+      "downloadUrl": "https://github.com/your-org/your-repo/releases/download/v1.3.0-beta1/my-app-firetv-beta.apk"
+    },
+    {
+      "id": "into-dark",
+      "name": "Into the Dark VPN",
+      "version": "3.0.2",
+      "description": "Into the Dark VPN. Contact Seller for Credentials.",
+      "downloadUrl": "https://github.com/wiked1982/apk-cat/releases/download/apk/IntoTheDark.3.0.2.apk"
     }
   ]
 }
